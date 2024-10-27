@@ -62,6 +62,8 @@ libtorrent package versions in linux distributions, on repology_.
 .. __: docs/building.rst
 .. __: docs/python_binding.rst
 
+
+libtorrent-开源代码P2P协议库(BitTorrent)-linux下编译，测试
 https://www.cnblogs.com/iczelion/p/13622602.html
 
 
